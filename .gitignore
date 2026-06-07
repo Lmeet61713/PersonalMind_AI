@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# User Data (隐私数据)
+memory/
+persona/
+session/
+vectors/
+
+
+
+# OS
+.DS_Store
+Thumbs.db
